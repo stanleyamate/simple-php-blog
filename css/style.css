@@ -1,0 +1,22 @@
+/* CSS for All */
+*{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-responsive{
+    width: 100%;
+}
+.img-curve{
+    border-radius: 15px;
+}
+
+
+
+
+/* CSSS for navbar section */
+
+.logo{
+    width: 8%;
+    float: left;
+}
